@@ -49,4 +49,4 @@ Created for Brackeys Game Jam 2022.1
 <br>
 -->
 <h2 id="#credits"> Credits</h2>
-[Giovane Machado](https://github.com/giovanemachado) - game design and game development
+<a href="https://github.com/giovanemachado"> Giovane Machado</a> - game design and game development
